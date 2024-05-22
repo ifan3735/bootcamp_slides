@@ -1,0 +1,14 @@
+.button {
+    background-color: #427fab;
+}
+
+.flexblock.features li {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+    width: 33.3%;
+}
+
+.flexblock.features li img {
+    width: 100%;
+}
